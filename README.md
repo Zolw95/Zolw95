@@ -1,7 +1,7 @@
-### Hello there, ![](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)
+### Hello there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30"/>
 
-<!--
-**Zolw95/Zolw95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+Hello, my name is Milosz Samec. I'm a full-stack web developer, working in JavaScript, React, Node, and MERN stack. My colleagues describe me as very articulate, friendly, approachable, and helpful with good problem solving skills. To learn more about me, please check out my portfolio, which includes some of the projects I have worked on.
 
 Here are some ideas to get you started:
 
