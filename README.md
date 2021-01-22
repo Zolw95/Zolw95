@@ -85,3 +85,7 @@ Hello, my name is Milosz Samec. I'm a full-stack web developer, working in JavaS
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Zolw95&repo=contacts-keeper&title_color=fe428e&text_color=c4abdb&icon_color=c4abdb&bg_color=151515" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=Zolw95&repo=contacts-keeper&title_color=fe428e&text_color=c4abdb&icon_color=c4abdb&bg_color=151515;text_color=c4abdb&amp;icon_color=c4abdb&amp;bg_color=151515" style="max-width:100%;">
 </a>
 
+<a href="https://github.com/Zolw95/it-logger">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Zolw95&repo=it-logger&title_color=fe428e&text_color=c4abdb&icon_color=c4abdb&bg_color=151515" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=Zolw95&repo=it-logger&title_color=fe428e&text_color=c4abdb&icon_color=c4abdb&bg_color=151515;text_color=c4abdb&amp;icon_color=c4abdb&amp;bg_color=151515" style="max-width:100%;">
+</a>
+
