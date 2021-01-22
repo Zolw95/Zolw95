@@ -67,5 +67,13 @@ Hello, my name is Milosz Samec. I'm a full-stack web developer, working in JavaS
     </tbody>
   </table>
   
+  ### Projects
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zolw95&theme=tokyonight)
+<a href="https://github.com/Zolw95/Marketplace-Back-End">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Zolw95&repo=Marketplace-Back-End&title_color=fe428e&text_color=c4abdb&icon_color=c4abdb&bg_color=151515" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=Zolw95&repo=Marketplace-Back-End&title_color=fe428e&text_color=c4abdb&icon_color=c4abdb&bg_color=151515;text_color=c4abdb&amp;icon_color=c4abdb&amp;bg_color=151515" style="max-width:100%;">
+</a>
+
+<a href="https://github.com/Zolw95/Express_Groomer-TeamA-FE">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Zolw95&repo=Express_Groomer-TeamA-FE&title_color=fe428e&text_color=c4abdb&icon_color=c4abdb&bg_color=151515" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=Zolw95&repo=Express_Groomer-TeamA-FE&title_color=fe428e&text_color=c4abdb&icon_color=c4abdb&bg_color=151515;text_color=c4abdb&amp;icon_color=c4abdb&amp;bg_color=151515" style="max-width:100%;">
+</a>
+
